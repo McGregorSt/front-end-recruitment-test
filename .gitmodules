@@ -1,3 +1,6 @@
 [submodule "submodule/submodule"]
 	path = submodule/submodule
 	url = https://github.com/SnowdogApps/front-end-recruitment-test-submodule.git
+[submodule "sub"]
+	path = sub
+	url = https://github.com/SnowdogApps/front-end-recruitment-test-submodule.git
